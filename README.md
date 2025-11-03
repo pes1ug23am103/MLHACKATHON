@@ -39,7 +39,7 @@ These instructions will help you set up and run the project locally or in the cl
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Yogibear102/MLHACKATHON.git
+    git clone https://github.com/pes1ug23am103/MLHACKATHON.git
     ```
 2. **Navigate to the Project Directory:**
     ```bash
